@@ -5,5 +5,6 @@ public class MyController {
 	String mydata;
 
 	int data;
+	int price;
 
 }
